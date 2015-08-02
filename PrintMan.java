@@ -3,7 +3,7 @@ package com.gamzabox.test.print;
 public class PrintMan {
 
 	public static void printHi(){
-		System.out.println("HiddenTagView");
+		System.out.println("Hello!");
 	}
 
 }
